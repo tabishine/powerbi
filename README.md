@@ -1,3 +1,3 @@
 # powerbi
-final project of cert powerbi
-Result you can see on file "Zhambulova_project.pdf"
+final project of PowerBi
+Results you can see on file "Zhambulova_project.pdf"
